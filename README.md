@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Baire
-- 👀 I’m interested in back end development 
+- 👀 I’m interested in either back end development or front end development 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on a project that requires either C++ or Java code
 - 📫 How to reach me: bairejavier1@gmail.com 
