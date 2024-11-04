@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Baire
 - 👀 I’m interested in either back end development or front end development 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on a project that requires either C++ or Java code
+- 🌱 I’m currently learning Python and C#, as I also know Java, C++ and C
+- 💞️ I’m looking to collaborate on a project that requires any programming language!
 - 📫 How to reach me: bairejavier1@gmail.com 
 
 <!---
